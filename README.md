@@ -5,6 +5,7 @@ To install:
 - run "pod install"
 - open "simple-api-test.xcworkspace"
 
+Technologies:
 - Pagination support (UITableView Infinite Scrolling)
 - MVVM
 - Quick/Nimble + Snapshots
