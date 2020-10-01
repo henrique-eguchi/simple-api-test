@@ -50,11 +50,7 @@ class BeersViewModel {
                 
                 self.beers.append(contentsOf: response)
                 DispatchQueue.main.async {
-                    if self.currentPage > 1 {
-                        self.delegate?.fetchBeersSuccess()
-                    } else {
-                        self.delegate?.fetchBeersSuccess()
-                    }
+                    self.delegate?.fetchBeersSuccess()
                 }
             }
         }
