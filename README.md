@@ -8,12 +8,14 @@ To install:
 Technologies:
 - Pagination support (UITableView Infinite Scrolling)
 - MVVM
-- Quick/Nimble + Snapshots
+- Quick/Nimble + Snapshots - Usage only
 - Image Cache
 
 ========================================================
 
 Progress log:
+
+2019
 
 October 28th
 
@@ -26,3 +28,8 @@ October 29th - Second day
 11PM - Finished project development
 
 
+2020
+
+September 30th
+9PM - Started project adjusts
+10PM - Finished project adjusts
