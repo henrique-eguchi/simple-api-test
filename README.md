@@ -19,17 +19,17 @@ Progress log:
 
 October 28th
 
-9PM - Started project development
+9PM - Started project development /
 10PM - Finished project development
 
 October 29th - Second day
 
-9PM - Started project development
+9PM - Started project development /
 11PM - Finished project development
 
 
 2020
 
 September 30th
-9PM - Started project adjusts
+9PM - Started project adjusts /
 10PM - Finished project adjusts
